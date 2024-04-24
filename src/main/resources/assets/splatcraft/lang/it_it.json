@@ -412,7 +412,7 @@
 
   "gui.stage_pad.button.create_stage": "+ Crea un nuovo scenario",
   "gui.stage_pad.textbox.search_stage": "Scrivi il nome di uno scenario...",
-  "gui.stage_pad.button.search_stage": "Barra di ricerca on/*off",
+  "gui.stage_pad.button.search_stage": "Barra di ricerca on/off",
   "gui.stage_pad.button.superjump_to": "Fai un super salto allo scenario",
   "gui.stage_pad.button.superjump_to.out_of_range": "Questo scenario è fuori dal limite consentito!",
   "gui.stage_pad.button.superjump_to.no_pads_found": "Questo scenario non ha basi di rigenerazione!",
@@ -566,7 +566,7 @@
   "gamerule.splatcraft.globalSuperJumping": "Super salto globale",
   "gamerule.splatcraft.globalSuperJumping.description": "Permette ai giocatori di eseguire super salti fuori dagli scenari",
   "gamerule.splatcraft.superJumpDistanceLimit": "Limite di distanza super salto",
-  "gamerule.splatcraft.superJumpDistanceLimit.description": "Determina la massima distanza di super salto al di fuori degli scenari. §oI valori negativi disabilitano interamente il limite",
+  "gamerule.splatcraft.superJumpDistanceLimit.description": "Determina la massima distanza di super salto al di fuori degli scenari. I valori negativi disabilitano interamente il limite",
 
   "status.coord_set.a": "Prima posizione: X: %s Y: %s Z: %s",
   "status.coord_set.b": "Seconda posizione: X: %s Y: %s Z: %s",
